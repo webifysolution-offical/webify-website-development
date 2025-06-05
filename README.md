@@ -29,4 +29,5 @@ We help Indian startups and SMEs build:
 ## 📞 Contact Info
 
 - Website: [https://webifysolution.com](https://webifysolution.com)
-- Email: hello@webifysolution.com
+- Email: info@webifysolution.com
+
